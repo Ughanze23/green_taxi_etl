@@ -9,7 +9,7 @@ You may need to reference the link below to download via Python in Mage:
 https://github.com/DataTalksClub/nyc-tlc-data/releases/download/green/
 
 Below are the steps performed in this simple pipeline
-# Assignment
+# Actions
 The goal will be to construct an ETL pipeline that loads the data, performs some transformations, and writes the data to a database (and Google Cloud!).
 
 * Create a new pipeline, call it green_taxi_etl
